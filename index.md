@@ -6,7 +6,8 @@ author_profile: true
 classes: wide
 ---
 
-##  About Me  
+
+(/images/tech_image.png){: .align-right width="300px"} 
 
 A 2nd-year **Electronics Engineering student** at the **University of South-Eastern Norway**, specializing in *Microtechnology and Computer Systems*.  
 
