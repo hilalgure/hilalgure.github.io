@@ -1,6 +1,6 @@
 ---
 title: "Gamma-Code Encoder on FPGA"
-excerpt: "VHDL-based FSM design for Gamma-code encoding and LED control. <br/><img src='/images/Schematic_illustration_PLK_project.png'>"
+excerpt: "VHDL-based FSM design for Gamma-code encoding and LED control. <br/><img src='/images/Schematic_illustration.png'>"
 collection: portfolio
 ---
 This project implements a Gamma-code encoder using Finite State Machine (FSM) logic on an FPGA.
