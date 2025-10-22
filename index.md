@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## 👋 About Me  
+##  About Me  
 
 A 2nd-year **Electronics Engineering student** at the **University of South-Eastern Norway**, specializing in *Microtechnology and Computer Systems*.  
 

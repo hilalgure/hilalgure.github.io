@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hilal Gure Homepage"
+title                    : "Hilal's Homepage"
 title_separator          : "-"
 name                     : &name "Hilal Gure"
 description              : &description "Registered Nurse & Electronics Engineering Student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,9 +23,9 @@ repository               : "hilalgure/hilalgure.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hilal_profile.png"
   name             : "Hilal Gure"
-  bio              : "A nurse by heart and an engineering student by curiosity. I’m inspired by how technology can support better, safer, and more compassionate healthcare."
+  bio              : "A nurse by heart and an engineering student by curiosity."
   location         : "Horten, Norway"
   employer         : "University of South-Eastern Norway"
   uri              : # URL
